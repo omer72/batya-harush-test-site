@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Arial", "Helvetica", sans-serif;
+  background-color: #eff1f2;
+  color: #20303c;
+  margin: 0;
+}
+
+a {
+  color: #df234d;
+}
+
+.header, .footer {
+  background-color: #5f6360;
+}
+
+.header a, .footer a {
+  color: #ffffff;
+}
